@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Eater&family=Nosifer&family=Poppins&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: "Eater";
+    box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+/* Define scrollbar color */
+::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+

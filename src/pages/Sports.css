@@ -1,0 +1,22 @@
+/* CSS for the tabs */
+.tab-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 15px;
+  }
+  
+  .tab {
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px 5px 0 0;
+    background-color: white;
+    color: #f00;
+    transition: background-color 1s, color 1s;
+  }
+  
+  .tab.active {
+    background-color: #f00;
+    color: white;
+  }
+  

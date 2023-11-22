@@ -1,0 +1,34 @@
+.body{
+  background-color: black;
+  scroll-behavior: smooth;
+  overflow: hidden;
+  height: 100vh;
+}
+
+:root {
+  --react-glitch-font-size: 72px;
+  --react-glitch-text-color: white;
+  --react-glitch-text-background-color: #bcd500;
+  --react-glitch-text-glitch-color-1: #D10303;
+  --react-glitch-text-glitch-color-2: #141414;
+}
+
+.slide-in{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: #0f0f0f;
+  transform-origin: bottom;
+}
+
+.slide-out{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: #0f0f0f;
+  transform-origin: top;
+}
