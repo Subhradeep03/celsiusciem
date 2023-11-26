@@ -4,7 +4,7 @@ import logo from "../assets/logo.png";
 const AllFooter = () => {
   return (
     <>
-      <div className="w-full h-[25rem] flex flex-row justify-evenly items-center mt-10">
+      <div className="w-full flex flex-row justify-evenly items-center mt-10">
         <div className="flex flex-col w-full items-start gap-y-5 sm:pl-32 pl-5">
           <h2 className="sm:text-4xl text-xl text-white text-left">
             Contact Us

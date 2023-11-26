@@ -61,24 +61,28 @@ const Cultural = () => {
     {
       key: 11,
       title: "paint the town red (Wall Painting)",
+      genre: "flash-event",
       image:
         "https://media.istockphoto.com/id/1368633075/photo/on-the-wall-at-the-nursery-room-skilled-and-dedicated-male-artist-painting-the-mural.jpg?s=612x612&w=0&k=20&c=3v45OOELiVjufczPX0OUFAjfURCBHKHOE64rjmywh9c=",
     },
     {
       key: 12,
       title: "let's meme it (meme making)",
+      genre: "flash-event",
       image:
         "https://cdn.pizap.com/pizapfiles/images/meme_maker_creator_app05.jpg",
     },
     {
       key: 13,
       title: "reel it, feel it (reel making)",
+      genre: "flash-event",
       image:
         "https://b1422126.smushcdn.com/1422126/wp-content/uploads/2021/04/instagram_reels-1024x576.jpg?lossy=0&strip=1&webp=1",
     },
     {
       key: 14,
       title: "lensation (photography)",
+      genre: "flash-event",
       image:
         "https://cdn.thecollector.com/wp-content/uploads/2023/05/tips-to-become-a-great-photographer.jpg",
     },

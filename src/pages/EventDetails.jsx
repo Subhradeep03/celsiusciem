@@ -665,7 +665,7 @@ const EventDetails = () => {
       date: "9/10/11th January",
       fee: "Rs 70",
       prize: "",
-      category: "cultural",
+      category: "flash-event",
     },
     {
       key: 38,
@@ -682,7 +682,7 @@ const EventDetails = () => {
       date: "10th January",
       fee: "Rs 20",
       prize: "",
-      category: "cultural",
+      category: "flash-event",
     },
     {
       key: 39,
@@ -701,7 +701,7 @@ const EventDetails = () => {
       date: "14th January",
       fee: "Rs 50",
       prize: "",
-      category: "cultural",
+      category: "flash-event",
     },
     {
       key: 40,
@@ -720,7 +720,7 @@ const EventDetails = () => {
       date: "14th January",
       fee: "Rs 25",
       prize: "",
-      category: "cultural",
+      category: "flash-event",
     },
   ];
   return (

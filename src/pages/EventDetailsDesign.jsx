@@ -52,7 +52,7 @@ const EventDetailsDesign = (props2) => {
       <div
         style={{
           background: `linear-gradient(rgba(0, 0, 0, 0.1), rgba(255, 0, 0, 0.5)), url(${props2.image[currentImageIndex]}) no-repeat center`,
-          height: "200vh",
+          height: "175vh",
           width: "100%",
           position: "absolute",
           transition: "background 0.5s ease-in-out, opacity 0.3s ease-in-out", // Added opacity transition
@@ -80,12 +80,14 @@ const EventDetailsDesign = (props2) => {
           <h1 className="sm:text-4xl text-2xl text-white">
             Fee : <span className="sm:text-2xl text-lg">{props2.fee}</span>
           </h1>
-          <h1 className="sm:text-4xl text-2xl text-white">
-            Prize Money :{" "}
-            <span className="sm:text-5xl text-xl font-bold">
-              {props2.prize}
-            </span>
-          </h1>
+          {props2.category === "flash-event" ? null : (
+            <h1 className="sm:text-4xl text-2xl text-white">
+              Prize Money :{" "}
+              <span className="sm:text-5xl text-xl font-bold">
+                {props2.prize}
+              </span>
+            </h1>
+          )}
           <h1 className="sm:text-4xl text-2xl text-white sm:items-center item:start flex sm:flex-row flex-col">
             Contact (Tap to call) :{" "}
             <span className="sm:text-lg text-sm sm:ml-2 mt-2">
@@ -109,7 +111,10 @@ const EventDetailsDesign = (props2) => {
         <a href={props2.rule} target="_blank" rel="noreferrer">
           <Button
             visibility={`${
-              props2.category === "cultural" ? "hidden" : "visible"
+              props2.category === "cultural" ||
+              props2.category === "flash-event"
+                ? "hidden"
+                : "visible"
             }`}
             color={"black"}
             backgroundColor={"white"}

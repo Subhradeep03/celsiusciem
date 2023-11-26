@@ -317,7 +317,7 @@ const Executivecards = [
     url: "https://i.ibb.co/Xt0gCph/Biki.jpg",
     title: "Biki Saha",
     id: 2,
-    designation: "Badmintor Head",
+    designation: "Badminton Head",
   },
   {
     url: "https://i.ibb.co/HYcFGLC/Disha.jpg",
@@ -333,7 +333,7 @@ const Executivecards = [
   },
   {
     url: "https://i.ibb.co/sWB0W29/IMG-20231118-WA0001.jpg",
-    title: "Warribum Yonex Singh",
+    title: "Waribam Yonex Singh",
     id: 2,
     designation: "Volleyball Co-Head",
   },
