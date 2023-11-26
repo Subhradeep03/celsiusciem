@@ -127,13 +127,6 @@ const cards = [
     description:
       "similar to a parking ticket, has 'FINE' written all over him.",
   },
-  {
-    url: "https://i.ibb.co/ZSDfYTr/Screenshot-2023-11-03-204711.png",
-    title: "Sukanya Mondal",
-    id: 10,
-    designation: "Fashion Head",
-    description: "Her Mobile Network is faster than brain signals",
-  },
 ];
 
 const CoreMembers = () => {

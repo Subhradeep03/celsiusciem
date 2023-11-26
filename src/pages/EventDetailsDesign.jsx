@@ -52,7 +52,7 @@ const EventDetailsDesign = (props2) => {
       <div
         style={{
           background: `linear-gradient(rgba(0, 0, 0, 0.1), rgba(255, 0, 0, 0.5)), url(${props2.image[currentImageIndex]}) no-repeat center`,
-          height: "120vh",
+          height: "200vh",
           width: "100%",
           position: "absolute",
           transition: "background 0.5s ease-in-out, opacity 0.3s ease-in-out", // Added opacity transition

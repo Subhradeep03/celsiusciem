@@ -3,7 +3,7 @@ import logo from "../assets/logo.png";
 
 const Footer = () => {
   return (
-    <div className="w-full h-[250px] flex sm:flex-row flex-col justify-around items-center mt-[100px] sm:mt-0 sm:px-0 px-2">
+    <div className="w-full h-[25rem] flex sm:flex-row flex-col justify-around items-center mt-[100px] sm:mt-0 sm:px-0 px-2">
       <div className="sm:flex hidden flex-col justify-center w-full h-[200px] px-10 rounded-2xl">
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3686.522849051669!2d88.3457154!3d22.4845582!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0270ecc09b4691%3A0x7f99d48523fd066a!2sCalcutta%20Institute%20of%20Engineering%20And%20Management%20(CIEM)!5e0!3m2!1sen!2sin!4v1700157126266!5m2!1sen!2sin"
