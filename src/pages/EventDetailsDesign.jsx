@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
 import { FiPhoneCall } from "react-icons/fi";
+import "./EventDetails.css";
 import {
   Box,
   Button,
@@ -52,13 +53,16 @@ const EventDetailsDesign = (props2) => {
       <div
         style={{
           background: `linear-gradient(rgba(0, 0, 0, 0.1), rgba(255, 0, 0, 0.5)), url(${props2.image[currentImageIndex]}) no-repeat center`,
-          height: "175vh",
+          height: window.innerWidth <= 767 ? "120vh" : "175vh",
           width: "100%",
           position: "absolute",
           transition: "background 0.5s ease-in-out, opacity 0.3s ease-in-out", // Added opacity transition
           filter: "brightness(0.3)",
           zIndex: -10,
-          opacity: fadeIn ? 0 : 1, // Initial opacity is set to 0 during fadeIn
+          opacity: fadeIn ? 0 : 1,
+          "@media (max-width: 450px)": {
+            height: "100vh",
+          },
         }}
       />
       <Navbar />
