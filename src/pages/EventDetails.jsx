@@ -290,7 +290,7 @@ const EventDetails = () => {
     },
     {
       key: 17,
-      title: "ideathon",
+      title: "Money Heists (ideathon)",
       person1: "Indranil Saha",
       person2: "Ambar Pahari",
       contact1: 8777793318,
@@ -308,7 +308,7 @@ const EventDetails = () => {
 
     {
       key: 18,
-      title: "debate",
+      title: "Talk Rocks (debate)",
       person1: "Subhradeep Samanta",
       person2: "Ambar Pahari",
       contact1: 8584021403,
@@ -365,7 +365,7 @@ const EventDetails = () => {
     },
     {
       key: 21,
-      title: "public speaking",
+      title: "Speaker Speak Out (public speaking)",
       person1: "Subhradeep Samanta",
       person2: "Ambar Pahari",
       contact1: 8584021403,
@@ -498,7 +498,7 @@ const EventDetails = () => {
     },
     {
       key: 29,
-      title: "just a min",
+      title: "JAM (just a min)",
       person1: "Subhradeep Samanta",
       person2: "Ambar Pahari",
       contact1: 8777793318,
@@ -517,7 +517,7 @@ const EventDetails = () => {
     },
     {
       key: 30,
-      title: "group discussion",
+      title: "Agree to Disagree(group discussion)",
       person1: "Indranil Saha",
       person2: "Ambar Pahari",
       contact1: 8777793318,

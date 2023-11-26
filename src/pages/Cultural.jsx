@@ -23,7 +23,7 @@ const Cultural = () => {
     {
       key: 6,
       title: "sizzle 'n shake (western solo dancing)",
-      image: "https://i.ibb.co/6vC6RS2/dancing.jpg",
+      image: "https://i.ibb.co/mb1wwCm/pic-5.jpg",
     },
     {
       key: 7,
