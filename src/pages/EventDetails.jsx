@@ -37,6 +37,7 @@ const EventDetails = () => {
         "https://i.ibb.co/FX4SBwj/338156853-898680641367285-4178977480372802456-n.jpg",
       ],
       carousel1: "",
+      prize: "Rs 6000",
       category: "sports",
       date: "9/10th January",
       fee: "Rs 800",
@@ -53,6 +54,7 @@ const EventDetails = () => {
         "https://i.ibb.co/bLtWNz6/shuttleup-momen1.jpg",
       ],
       category: "sports",
+      prize: "Rs 12800",
       date: "2nd/3rd/4th January",
       fee: "Single: Rs 100, Double : Rs 200",
     },
@@ -68,6 +70,7 @@ const EventDetails = () => {
         "https://i.ibb.co/D4bYR60/carame.jpg",
       ],
       category: "sports",
+      prize: "Rs 7600",
       date: "5th/6th January",
       fee: "Single: Rs 50, Double : Rs 100",
     },
@@ -83,6 +86,7 @@ const EventDetails = () => {
         "https://i.ibb.co/jghjMjF/chess-moment1.jpg",
       ],
       category: "sports",
+      prize: "Rs 3800",
       date: "5/6th January",
       fee: "Rs 100",
     },
@@ -114,6 +118,7 @@ const EventDetails = () => {
       ],
       category: "sports",
       date: "3rd/4th January",
+      prize: "Rs 11400",
       fee: "Single: Rs 100, Double : Rs 200",
       carousel1: "",
     },
@@ -384,7 +389,8 @@ const EventDetails = () => {
       person2: "Aritra Naharay",
       contact1: 8777491797,
       contact2: 9599904224,
-      rule: "https://docs.google.com/document/d/1x2OQ16s1t63o8btSDeLaZhjcbetlgt8ejJmA--2Bung/edit?usp=share_link",
+      register:
+        "https://docs.google.com/forms/d/e/1FAIpQLScNXYCb04FqBXLjDgPiKk6-Le-r-Vy7LicIcwu2JWe60Qe2qQ/viewform",
       images: [
         "https://i.ibb.co/fHmLPdd/IMG-4717.jpg",
         "https://i.ibb.co/Lk8mPDb/IMG-4743.jpg",
@@ -402,8 +408,8 @@ const EventDetails = () => {
       person2: "Surottama Roy",
       contact1: 8777491797,
       contact2: 7003689835,
-      rule: "https://docs.google.com/document/d/1WiaOku69i1idVVh_t1aqZaDKqLxwPr840EVgpwZZq9w/edit?usp=share_link",
-      register: "#",
+      register:
+        "https://docs.google.com/forms/d/e/1FAIpQLSd3QmH9eyBfSByDi7RDo1fpmQuG7N6qo_rjILgzVHPdwS18iA/viewform",
       images: [
         "https://i.ibb.co/4ZwRLDQ/IMG-4881.jpg",
         "https://i.ibb.co/ZKBwNfv/IMG-4973.jpg",
@@ -424,7 +430,8 @@ const EventDetails = () => {
       contact1: 8777491797,
       contact2: 7003689835,
       rule: "https://docs.google.com/document/d/1VJCy-VkT4zkEqwS2CCEQC137FMSfum9pPSW-LGyU-U4/edit?usp=share_link",
-      register: "#",
+      register:
+        "https://docs.google.com/forms/d/e/1FAIpQLSeJj4WU364KdQxSW3wqiReJ9v_lG7Aw1aykme4KAs04R2WTJA/viewform",
       images: [
         "https://i.ibb.co/Gn8V2Nh/IMG-0398.jpg",
         "https://i.ibb.co/JmbKKP4/IMG-5951.jpg",
@@ -443,8 +450,8 @@ const EventDetails = () => {
       person2: "Surottama Roy",
       contact1: 8777491797,
       contact2: 7003689835,
-      rule: "https://docs.google.com/document/d/1_PhVdunTxAOZwb61OnmsdsmA5FQoJO0dxua5c-ZDbrs/edit?usp=share_link",
-      register: "#",
+      register:
+        "https://docs.google.com/forms/d/e/1FAIpQLSfKCkR0PgGWvDavR9PVHhk56SOgMwEk6lZgv2LCtJv3NU_pfg/viewform",
       images: ["https://i.ibb.co/jHStw3F/IMG-5064.jpg"],
       date: "12th and 13th January",
       fee: "Rs 100 per person",
@@ -460,7 +467,8 @@ const EventDetails = () => {
       contact1: 8777491797,
       contact2: 7003689835,
       rule: "https://docs.google.com/document/d/1Om26T7gjV8R2h21uvl_DI8zEy7D1LeyZKDBjedgcj-Q/edit?usp=share_link",
-      register: "#",
+      register:
+        "https://docs.google.com/forms/d/e/1FAIpQLSdLlyzhfm-D0oCxcC_xTEovXOCUmsxaVxdgK6WmmjmYlCEo4A/viewform",
       images: [
         "https://i.ibb.co/CVG45YM/IMG-5152.jpg",
         "https://i.ibb.co/m5WLwSm/IMG-5168.jpg",
@@ -552,7 +560,7 @@ const EventDetails = () => {
       person2: "Ambar Pahari",
       contact1: 8777793318,
       contact2: 8768906846,
-      rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
+      rule: "https://docs.google.com/document/d/1QlGeqNKenyaZxZFEmtDD1hosydDqemRgqxGKMy83Lyw/edit?usp=sharing",
       register:
         "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
       images: [
@@ -573,7 +581,7 @@ const EventDetails = () => {
       contact2: 7003689835,
       rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
       register:
-        "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
+        "https://docs.google.com/forms/d/e/1FAIpQLSc_KZxsl_vdanTUEOSSVDuJozfGL4V8jgfYyDQhMjbhWNKgfA/viewform",
       images: [
         "https://img.freepik.com/premium-photo/breakdancing_891336-13937.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699401600&semt=ais",
       ],
@@ -592,7 +600,7 @@ const EventDetails = () => {
       contact2: 7003689835,
       rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
       register:
-        "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
+        "https://docs.google.com/forms/d/e/1FAIpQLSfl8siWs7D1mHvsC-6X8vfLD2lGyBU3wCCf0lDSJjneYluOiQ/viewform",
       images: [
         "https://upload.wikimedia.org/wikipedia/commons/4/49/Battles_22-11-07.jpg",
       ],
@@ -611,7 +619,7 @@ const EventDetails = () => {
       contact2: 7003689835,
       rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
       register:
-        "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
+        "https://docs.google.com/forms/d/e/1FAIpQLSdWPGyXeQjVj87zRqiu3HnF2IEJrs8n1mBRkd6kRMHblioxNg/viewform",
       images: [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/20140118174713IMG_5618_M_-_Desucon_Frostbite_2014_-_matiast1_%28cropped%29.jpg/350px-20140118174713IMG_5618_M_-_Desucon_Frostbite_2014_-_matiast1_%28cropped%29.jpg",
       ],
@@ -630,7 +638,7 @@ const EventDetails = () => {
       contact2: 7003689835,
       rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
       register:
-        "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
+        "https://docs.google.com/forms/d/e/1FAIpQLSfLrC6eLvYYkSgjRt_SCAbHs5L54u5M28XVbHLQ-nG6VehUnw/viewform",
       images: [
         "https://im.indiatimes.in/content/2021/Nov/Street-Theatre2_6194bbdde8c0a.jpg?w=725&h=445",
       ],
@@ -649,7 +657,7 @@ const EventDetails = () => {
       contact2: 7003689835,
       rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
       register:
-        "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
+        "https://docs.google.com/forms/d/e/1FAIpQLSdFxyoYzJg9iU5VupYU6wdok7NIviJ4iQ05OFdfDv_7s94eXg/viewform",
       images: [
         "https://5.imimg.com/data5/SELLER/Default/2020/12/WB/FE/CW/24351690/charcoal-painting-500x500.JPG",
       ],
@@ -666,7 +674,7 @@ const EventDetails = () => {
       person2: "Surottama Roy",
       contact1: 8777491797,
       contact2: 7003689835,
-      rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
+      rule: "https://docs.google.com/forms/d/e/1FAIpQLSdBGaaWrPYESA1jntrjm7wRPg-UEDbxsceQ5RfsyKpkw8QlqQ/viewform",
       register:
         "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
       images: ["https://m.media-amazon.com/images/I/81i1X1ZyeGL.png"],
@@ -685,7 +693,7 @@ const EventDetails = () => {
       contact2: 7003689835,
       rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
       register:
-        "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
+        "https://docs.google.com/forms/d/e/1FAIpQLSfsrZweOx3krynNGlveYeTaBCiQJ3gyY5Cnk-2sBSju8UgjsA/viewform",
       images: [
         "https://startuptimes.net/uploads/images/202105/image_750x_60b1d568e73f2.jpg",
       ],
@@ -704,7 +712,7 @@ const EventDetails = () => {
       contact2: 8768906846,
       rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
       register:
-        "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
+        "https://docs.google.com/forms/d/e/1FAIpQLSfLS709KRaTFhyHUhJ1gJUqhLERyHEFK9qm9na8TcY3IOcsiQ/viewform",
       images: [
         "https://houseofcommons.shorthandstories.com/biodiversity-photo-competition-winners/assets/17VWo7Is1T/djan-macalister-9sfcb8naq88-unsplash-750x410.png",
       ],

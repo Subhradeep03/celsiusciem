@@ -108,6 +108,9 @@ const EventDetailsDesign = (props2) => {
       <div className="w-full flex flex-row justify-around mt-10 mb-10">
         <a href={props2.rule} target="_blank" rel="noreferrer">
           <Button
+            visibility={`${
+              props2.category === "cultural" ? "hidden" : "visible"
+            }`}
             color={"black"}
             backgroundColor={"white"}
             className="p-5 rounded-xl sm:text-3xl text-xl"
@@ -118,7 +121,7 @@ const EventDetailsDesign = (props2) => {
         <a href={props2.register} target="_blank" rel="noreferrer">
           <Button
             visibility={`${
-              props2.category === "cultural" ? "hidden" : "visible"
+              props2.category === "sports" ? "hidden" : "visible"
             }`}
             color={"black"}
             backgroundColor={"white"}
