@@ -16,6 +16,7 @@ const EventDetails = () => {
       person2: "Satyaki",
       contact1: 9832868016,
       contact2: 8777098328,
+      rule: "https://i.ibb.co/Ky5F5p0/Red-Black-Illustrated-Haunted-Manor-Horror-Novel-Book-Cover.png",
       images: [
         "https://i.ibb.co/0JdWpcM/torneo-moment1.jpg",
         "https://i.ibb.co/QYNfZjp/IMG-4503.jpg",
@@ -32,6 +33,7 @@ const EventDetails = () => {
       person2: "Sashank",
       contact1: 9832868016,
       contact2: 9667022458,
+      rule: "https://i.ibb.co/FXsJSSb/volleyball.png",
       images: [
         "https://i.ibb.co/qyjxtQ6/338136844-778663460073378-9215518887055321265-n.jpg",
         "https://i.ibb.co/FX4SBwj/338156853-898680641367285-4178977480372802456-n.jpg",
@@ -49,6 +51,7 @@ const EventDetails = () => {
       person2: "Saptarshi",
       contact1: 8777237211,
       contact2: 8017724781,
+      rule: "https://i.ibb.co/NZSPCzM/badminton.png",
       images: [
         "https://i.ibb.co/XStrWzj/337518077-3515352828742055-4322215372408983517-n.jpg",
         "https://i.ibb.co/bLtWNz6/shuttleup-momen1.jpg",
@@ -65,6 +68,7 @@ const EventDetails = () => {
       person2: "Anirban",
       contact1: 8777237211,
       contact2: 7980809234,
+      rule: "https://i.ibb.co/jLZv7rc/carrom.png",
       images: [
         "https://i.ibb.co/XS6kTW1/carrom-moment1.jpg",
         "https://i.ibb.co/D4bYR60/carame.jpg",
@@ -81,6 +85,7 @@ const EventDetails = () => {
       person2: "",
       contact1: 8777237211,
       contact2: 123344556677,
+      rule: "https://i.ibb.co/rxyFhBL/chess.png",
       images: [
         "https://i.ibb.co/GWW1DCQ/IMG-4566.jpg",
         "https://i.ibb.co/jghjMjF/chess-moment1.jpg",
@@ -97,6 +102,7 @@ const EventDetails = () => {
       person2: "Shuvam",
       contact1: 9832868016,
       contact2: 9609604995,
+      rule: "https://i.ibb.co/fp0RwWb/cricket.png",
       images: [
         "https://i.ibb.co/2gzmPyx/337706365-888136635602885-578816392205741076-n.jpg",
         "https://i.ibb.co/ctTDN45/337150034-1208453296471667-4889783859251799164-n.jpg",
@@ -113,6 +119,7 @@ const EventDetails = () => {
       person2: "Biki",
       contact1: 8777237211,
       contact2: 9002762648,
+      rule: "https://i.ibb.co/3fCKM36/tabletennis.png",
       images: [
         "https://i.ibb.co/1dhqbWP/337039703-1647913322296426-4930684816678638459-n.jpg",
       ],
@@ -503,7 +510,7 @@ const EventDetails = () => {
       person2: "Ambar Pahari",
       contact1: 8777793318,
       contact2: 8768906846,
-      rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
+      rule: "",
       register:
         "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
       images: [
@@ -522,7 +529,7 @@ const EventDetails = () => {
       person2: "Ambar Pahari",
       contact1: 8777793318,
       contact2: 8768906846,
-      rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
+      rule: "",
       register:
         "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
       images: [
