@@ -300,7 +300,8 @@ const EventDetails = () => {
       contact1: 8777793318,
       contact2: 8768906846,
       rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
-      register: "#",
+      register:
+        "https://docs.google.com/forms/d/e/1FAIpQLSd8BBvB8mxWRYd7ZAEKeK7iveDhzVrtZldulr1L19oX0ne4ZQ/viewform",
       images: ["https://i.ibb.co/7zWkLj7/ideathon-moment1.jpg"],
       carousel1: "",
       date: "8th January",
@@ -317,7 +318,8 @@ const EventDetails = () => {
       contact1: 8584021403,
       contact2: 8768906846,
       rule: "https://docs.google.com/document/d/1oXIJlmGNeRzEibGk_GB3NxA9UXoj6WGds5f-cPnUKDo/edit?usp=share_link",
-      register: "#",
+      register:
+        "https://docs.google.com/forms/d/e/1FAIpQLSd8BBvB8mxWRYd7ZAEKeK7iveDhzVrtZldulr1L19oX0ne4ZQ/viewform",
       images: [
         "https://www.thoughtco.com/thmb/OHDsYeRFKM1v1lMVNbu9mDJIaJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1144822648-e7617ee8970d4f058b2506784927713a.jpg",
       ],
@@ -373,7 +375,8 @@ const EventDetails = () => {
       contact1: 8584021403,
       contact2: 8768906846,
       rule: "https://docs.google.com/document/d/1WuazWbHWKYzBPaMY80IhcpIH2bidLr9VbemSQwaZpwE/edit?usp=share_link",
-      register: "#",
+      register:
+        "https://docs.google.com/forms/d/e/1FAIpQLSd8BBvB8mxWRYd7ZAEKeK7iveDhzVrtZldulr1L19oX0ne4ZQ/viewform",
       images: [
         "https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_800,h_450/https://jefmenguin.com/wp-content/uploads/2023/06/elbi-professional-speakers.jpg",
       ],
