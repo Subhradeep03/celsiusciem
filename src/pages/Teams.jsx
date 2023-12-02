@@ -127,6 +127,13 @@ const cards = [
     description:
       "similar to a parking ticket, has 'FINE' written all over him.",
   },
+  {
+    url: "https://i.ibb.co/ZSDfYTr/Screenshot-2023-11-03-204711.png",
+    title: "Sukanya Mondal",
+    id: 8,
+    designation: "Fashion Head",
+    description: "Her Mobile Network is faster than her brain signal",
+  },
 ];
 
 const CoreMembers = () => {
@@ -348,6 +355,12 @@ const Executivecards = [
     title: "Suryanath Chakrabarti",
     id: 2,
     designation: "Table Tennis Head",
+  },
+  {
+    url: "https://i.ibb.co/BZRs7Rg/Whats-App-Image-2023-11-29-at-11-16-38-PM-1.jpg",
+    title: "Biswajit Roy",
+    id: 2,
+    designation: "Cricket Co-Head",
   },
 ];
 

@@ -173,9 +173,8 @@ const EventDetails = () => {
       person2: "Tathagata",
       contact1: 8584021403,
       contact2: 6290905836,
-      rule: "https://forms.gle/tPQP16emt6ZiSPpTA",
-      register:
-        "https://docs.google.com/document/d/1yGUySpZOyUDjFRiJ61PaYC0MiJDymPSB8yPGpbErv-8/edit?usp=sharing",
+      register: "https://forms.gle/tPQP16emt6ZiSPpTA",
+      rule: "https://docs.google.com/document/d/1yGUySpZOyUDjFRiJ61PaYC0MiJDymPSB8yPGpbErv-8/edit?usp=sharing",
       images: ["https://i.ibb.co/0jR6K84/codedrift-moment1.jpg"],
       category: "technical",
       date: "8th January",
@@ -209,14 +208,13 @@ const EventDetails = () => {
       person2: "Dharamnath Jha",
       contact1: 7319217767,
       contact2: 9599904224,
-      rule: "https://forms.gle/mb666dSmQGpqwzLm7",
-      register:
-        "https://docs.google.com/document/d/1psLa1Vb-OUs6sCjQxLjqMl0CQtt4Du1uCU0mOWA8dJg/edit?usp=sharing ",
+      register: "https://forms.gle/mb666dSmQGpqwzLm7",
+      rule: "https://docs.google.com/document/d/1psLa1Vb-OUs6sCjQxLjqMl0CQtt4Du1uCU0mOWA8dJg/edit?usp=sharing ",
       images: [
         "https://i.ibb.co/XzNZhpZ/IMG-4028.jpg",
         "https://i.ibb.co/3RLb1Dx/IMG-4026.jpg",
       ],
-      date: "8/9/10 th January",
+      date: "7/8/9/10 th January",
       fee: "Rs 50 per person",
       prize: "Get Instant cashback of Rs 80",
       category: "technical",
@@ -228,9 +226,8 @@ const EventDetails = () => {
       person2: "Mrigank Biswas",
       contact1: 8017608350,
       contact2: 6290336953,
-      rule: "https://forms.gle/sh6TXHsjVNSEWy5u7",
-      register:
-        "https://docs.google.com/document/d/1OsE_dYIbbiA62amf3R_onj2TDnDQIqq_69j75ectgMg/edit?usp=sharing ",
+      register: "https://forms.gle/sh6TXHsjVNSEWy5u7",
+      rule: "https://docs.google.com/document/d/1OsE_dYIbbiA62amf3R_onj2TDnDQIqq_69j75ectgMg/edit?usp=sharing ",
       images: [
         "https://i.ibb.co/L5fHg5T/IMG-4119.jpg",
         "https://i.ibb.co/s6qyF1B/IMG-4118.jpg",
@@ -303,8 +300,7 @@ const EventDetails = () => {
       contact1: 8777793318,
       contact2: 8768906846,
       rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
-      register:
-        "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
+      register: "#",
       images: ["https://i.ibb.co/7zWkLj7/ideathon-moment1.jpg"],
       carousel1: "",
       date: "8th January",
@@ -321,8 +317,7 @@ const EventDetails = () => {
       contact1: 8584021403,
       contact2: 8768906846,
       rule: "https://docs.google.com/document/d/1oXIJlmGNeRzEibGk_GB3NxA9UXoj6WGds5f-cPnUKDo/edit?usp=share_link",
-      register:
-        "https://docs.google.com/forms/d/e/1FAIpQLSfu-cMxMPkEr2YVkL-vxwrcE5v_yfu821Cm3sI7of97WYTbeQ/viewform?usp=share_link",
+      register: "#",
       images: [
         "https://www.thoughtco.com/thmb/OHDsYeRFKM1v1lMVNbu9mDJIaJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1144822648-e7617ee8970d4f058b2506784927713a.jpg",
       ],
@@ -378,8 +373,7 @@ const EventDetails = () => {
       contact1: 8584021403,
       contact2: 8768906846,
       rule: "https://docs.google.com/document/d/1WuazWbHWKYzBPaMY80IhcpIH2bidLr9VbemSQwaZpwE/edit?usp=share_link",
-      register:
-        "https://docs.google.com/forms/d/e/1FAIpQLSekvFXb1naDRyRWoAMZOSHdb0YiX2M8NuvicNqab1GBitGAjQ/viewform?usp=share_link",
+      register: "#",
       images: [
         "https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_800,h_450/https://jefmenguin.com/wp-content/uploads/2023/06/elbi-professional-speakers.jpg",
       ],
@@ -548,14 +542,14 @@ const EventDetails = () => {
       person2: "Ambar Pahari",
       contact1: 8777793318,
       contact2: 8768906846,
-      rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
+      rule: "https://docs.google.com/document/d/1TeASMrsr8anmyk6FMNa2WcVbHoUYBmk_jOgnqG_NV-E/edit?usp=sharing",
       register:
         "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
       images: [
         "https://imechewebresources.blob.core.windows.net/imeche-web-content/images/default-source/oscar/news/2022/robo-race3-800.png?sfvrsn=65946e11_2",
       ],
       carousel1: "",
-      date: "8/9/10th January",
+      date: "7/8/9/10th January",
       fee: "Team Size (5 Max) Rs 50 per team",
       prize: "Rs 5000",
       category: "technical",
