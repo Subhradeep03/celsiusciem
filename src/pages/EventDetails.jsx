@@ -196,7 +196,7 @@ const EventDetails = () => {
         "https://i.ibb.co/yqbpj82/IMG-3628.jpg",
       ],
       carousel1: "",
-      date: "8/9 th January",
+      date: "7/8/9 th January",
       fee: "Team Size (4 Max) Rs 250 per team",
       prize: "Rs 15000",
       category: "technical",
