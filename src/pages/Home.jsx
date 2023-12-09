@@ -301,17 +301,34 @@ const Home = () => {
               backgroundRepeat: "no-repeat",
               zIndex: 20,
             }}
-            className="h-screen flex flex-col overflow-x-hidden"
+            className="h-screen flex flex-col overflow-x-hidden overflow-y-hidden my-10"
             data-aos="fade-right"
             data-aos-duration="3000"
           >
-            <div className="darken-overlay -z-10"></div>
-            <div className="flex flex-col mt-[150px] w-full gap-y-10 ">
+            {/* <div className="darken-overlay -z-10"></div> */}
+            <div className="flex flex-col mt-[90px] w-full gap-y-10 ">
               <h2 className="text-white text-6xl text-center">This Year</h2>
             </div>
-            <div className="justify-center flex flex-col h-full -mt-32">
-              <div className="text-white text-4xl text-center">
-                <Glitch text={"Will Be Revealed Soon..."} />
+            <div className="justify-center flex flex-col h-full">
+              <div className="flex sm:flex-row flex-col w-full px-6 justify-evenly items-center">
+                <div className="flex flex-col items-center justify-center">
+                  <img
+                    src="https://i.ibb.co/3CgzGQZ/Untitled-design-1.png"
+                    className="w-[400px] h-[350px]"
+                  />
+                  <div className="text-2xl text-center text-white mt-5">
+                    <Glitch text={"FOSSILS"} />
+                  </div>
+                </div>
+                <div className="flex flex-col items-center justify-center">
+                  <img
+                    src="https://i.ibb.co/XjNSmBq/Untitled-design-2.png"
+                    className="w-[400px] h-[350px]"
+                  />
+                  <div className="text-2xl text-center text-white mt-5">
+                    <Glitch text={"Snigdhajit Bhowmik"} />
+                  </div>
+                </div>
               </div>
             </div>
           </div>
