@@ -306,7 +306,7 @@ const Home = () => {
             data-aos-duration="3000"
           >
             {/* <div className="darken-overlay -z-10"></div> */}
-            <div className="flex flex-col mt-[90px] w-full gap-y-10 ">
+            <div className="flex flex-col mt-[50px] w-full gap-y-10 mb-10">
               <h2 className="text-white text-6xl text-center">This Year</h2>
             </div>
             <div className="justify-center flex flex-col h-full">
@@ -314,7 +314,7 @@ const Home = () => {
                 <div className="flex flex-col items-center justify-center">
                   <img
                     src="https://i.ibb.co/3CgzGQZ/Untitled-design-1.png"
-                    className="w-[400px] h-[350px]"
+                    className="w-[400px] h-[300px]"
                   />
                   <div className="text-2xl text-center text-white mt-5">
                     <Glitch text={"FOSSILS"} />
@@ -323,7 +323,7 @@ const Home = () => {
                 <div className="flex flex-col items-center justify-center">
                   <img
                     src="https://i.ibb.co/XjNSmBq/Untitled-design-2.png"
-                    className="w-[400px] h-[350px]"
+                    className="w-[400px] h-[300px]"
                   />
                   <div className="text-2xl text-center text-white mt-5">
                     <Glitch text={"Snigdhajit Bhowmik"} />
