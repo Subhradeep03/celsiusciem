@@ -555,7 +555,7 @@ const EventDetails = () => {
       carousel1: "",
       date: "8/9/10th January",
       fee: "Team Size (5 Max) Rs 50 per team",
-      prize: "Rs 5000",
+      prize: "Rs 70",
       category: "technical",
     },
     {
