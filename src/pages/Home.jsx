@@ -313,7 +313,7 @@ const Home = () => {
               <div className="flex sm:flex-row flex-col w-full px-6 justify-evenly items-center">
                 <div className="flex flex-col items-center justify-center">
                   <img
-                    src="https://i.ibb.co/3CgzGQZ/Untitled-design-1.png"
+                    src="https://i.ibb.co/Dk3QPtp/Untitled-design-3-1.png"
                     className="w-[400px] h-[300px]"
                   />
                   <div className="text-2xl text-center text-white mt-5">
