@@ -303,8 +303,8 @@ const ExecutiveMembers = () => {
 
 const Executivecards = [
   {
-    url: "https://i.ibb.co/nDKs9JS/Whats-App-Image-2023-11-18-at-2-08-40-PM.jpg",
-    title: "Tridibesh Jha",
+    url: "https://i.ibb.co/5BZ3X1j/IMG-20231114-204338.jpg",
+    title: "Beas Das",
     id: 2,
     designation: "All Terrain Co-Head",
   },
