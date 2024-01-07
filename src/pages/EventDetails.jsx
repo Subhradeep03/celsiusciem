@@ -566,8 +566,7 @@ const EventDetails = () => {
       contact1: 8777793318,
       contact2: 8768906846,
       rule: "https://docs.google.com/document/d/1QlGeqNKenyaZxZFEmtDD1hosydDqemRgqxGKMy83Lyw/edit?usp=sharing",
-      register:
-        "https://docs.google.com/forms/d/e/1FAIpQLScNSYu3gtgECuHIGkLlm0KEDuqkHxRzgyb4mR9qhBCYIbsmEg/viewform?usp=share_link",
+      register: "https://forms.gle/3papckeyK6urbgoA7",
       images: [
         "https://blog.scitraining.com/wp-content/uploads/2018/10/what-is-drafting-in-autocad.jpg",
       ],
