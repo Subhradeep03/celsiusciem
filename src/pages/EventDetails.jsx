@@ -299,7 +299,7 @@ const EventDetails = () => {
       person2: "Ambar Pahari",
       contact1: 8777793318,
       contact2: 8768906846,
-      rule: "https://docs.google.com/document/d/18Sl8evlU8IMU0p3h66Zp-t1NVSmeBWgo7katDNXkH0M/edit?usp=share_link",
+      rule: "https://docs.google.com/document/d/1-09ALzyMZ3koNu1FttQQ1j66drio29O3n-xrb8oPRoE/edit",
       register:
         "https://docs.google.com/forms/d/e/1FAIpQLSd8BBvB8mxWRYd7ZAEKeK7iveDhzVrtZldulr1L19oX0ne4ZQ/viewform",
       images: ["https://i.ibb.co/7zWkLj7/ideathon-moment1.jpg"],
@@ -508,7 +508,7 @@ const EventDetails = () => {
       person2: "Ambar Pahari",
       contact1: 8777793318,
       contact2: 8768906846,
-      rule: "",
+      rule: "https://docs.google.com/document/d/11b5FRU_K_8P2S7kmjdct61l8GW8N8NNCWZkwMd3dq8M/edit",
       register:
         "https://docs.google.com/forms/d/e/1FAIpQLSd8BBvB8mxWRYd7ZAEKeK7iveDhzVrtZldulr1L19oX0ne4ZQ/viewform",
       images: [
@@ -527,7 +527,7 @@ const EventDetails = () => {
       person2: "Ambar Pahari",
       contact1: 8777793318,
       contact2: 8768906846,
-      rule: "",
+      rule: "https://docs.google.com/document/d/12TiduCHwG5mZNd3ypqMGdPWx5fxpOpEUQT5gefa6MSU/edit",
       register:
         "https://docs.google.com/forms/d/e/1FAIpQLSd8BBvB8mxWRYd7ZAEKeK7iveDhzVrtZldulr1L19oX0ne4ZQ/viewform",
       images: [
