@@ -134,7 +134,7 @@ const EventDetails = () => {
       title: "mobile gaming",
       person1: "Indranil Saha",
       person2: "Anik Das",
-      contact1: 7980335416,
+      contact1: 7319217767,
       contact2: 7980290813,
       images: [
         "https://i.ibb.co/MDGZPLw/mobilegaming-moment1.jpg",
@@ -152,7 +152,7 @@ const EventDetails = () => {
       title: "pc gaming",
       person1: "Indranil Saha",
       person2: "Subham Dutta",
-      contact1: 7605860024,
+      contact1: 7319217767,
       contact2: 9831118649,
       images: [
         "https://i.ibb.co/VmTGYWX/pcgaming-moment1.jpg",
@@ -280,7 +280,7 @@ const EventDetails = () => {
       person2: "Rahul Das",
       contact1: 7319217767,
       contact2: 9007080729,
-      rule: "https://docs.google.com/document/d/1-09ALzyMZ3koNu1FttQQ1j66drio29O3n-xrb8oPRoE/edit",
+      rule: "https://docs.google.com/document/d/1uSTvb8hy0dGtOyLtOh2MakHH9vWFPz27qcA7a9xOgVo/edit?usp=sharing",
       register: "https://forms.gle/DNE5RmGW68twKp9v7",
       images: [
         "https://i.ibb.co/5nfpWFR/IMG-4029.jpg",
